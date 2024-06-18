@@ -12,4 +12,4 @@ The company rates price depending on the type of the vehicle,
 name, contacts, e-mail, address and reason for hiring of the 
 vehicle are kept in the record book. Then customer is given a 
 clearance receipt for the money paid indicating the days to 
-spend with the vehicle and then sign out for the key. 
+spend with the vehicle and then sign out for the key.
