@@ -1,2 +1,3 @@
 Second assinment to deal with git and github
-more information
+more data on which
+information
